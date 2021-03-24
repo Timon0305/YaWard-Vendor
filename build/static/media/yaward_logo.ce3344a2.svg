@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 137 30" width="137" height="30">
+	<defs>
+		<image width="29" height="30" id="img1" href="data:image/png;base64,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"/>
+	</defs>
+	<style>
+		tspan { white-space:pre }
+		.txt0 { font-size: 28px;fill: #ba1f6a;font-weight: 400;font-family: "ElMessiri-Regular", "El Messiri" } 
+	</style>
+	<use id="Background" href="#img1" x="0" y="0" />
+	<text id="YaWard " style="transform: matrix(1,0,0,1,35,24)" >
+		<tspan x="0" y="0" class="txt0">YaWard</tspan>
+	</text>
+</svg>
